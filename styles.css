@@ -1,0 +1,7 @@
+img{max-width:100%;
+height:auto;
+background-color:aqua;
+background:radial-gradient(white 30%, aqua 70%);
+}
+.fa-star,.fa-star-half{ color:yellowgreen;
+padding:3% 0;}
